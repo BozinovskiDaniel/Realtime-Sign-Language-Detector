@@ -1,12 +1,7 @@
-# Realtime Sign Language Detector
-
-This is a real-time sign language detector made with Tensorflow object detection and Python.
-
-## Todo
-
+# To Do
 1. Export and Convert Python Model - DONE
 2. Host model on Cloud Object Storage - DONE
-3. Create computer vision template - DONE
+3. Clone computer vision template - DONE
 4. Install and update dependencies - DONE
 5. Load graph model from url - DONE
 6. Make detections and cleanup - DONE
